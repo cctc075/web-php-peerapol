@@ -1,5 +1,5 @@
 <?php
-$name = 'นายพีรพล ราชธานี';
+$name = 'Peerapol Rachtanee';
 $department = 'เทคโนโลยีสารสนเทศ';
 $student_id = '69319010014';
 $age = 18;
